@@ -1,19 +1,18 @@
 {
-  "name": "projeto_01",
+  "name": "aula_07_2408_revisao",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.12"
-  },
-  "dependencies": {
-    "mongoose": "^6.0.1"
-  }
+  "license": "ISC"
 }
