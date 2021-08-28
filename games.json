@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "612767bff5e17df3a0c1b5a6"
+  },
+  "name": "God of War",
+  "trailler": "https://www.youtube.com/watch?v=CJ_GCPaKywg",
+  "imageURL": "https://pt.wikipedia.org/wiki/God_of_War_(jogo_eletr%C3%B4nico_de_2018)#/media/Ficheiro:God_of_War_2018_capa.png"
+},{
+  "_id": {
+    "$oid": "61276a4ef5e17df3a0c1b5a7"
+  },
+  "name": "Assassin´s Creed IV– Black Flag",
+  "trailler": "https://www.youtube.com/watch?v=O1nRrvsGD9s",
+  "imageURL": "http://s.glbimg.com/po/tt/f/original/2013/10/04/assassins-creed-4-black-flag-ac.jpg"
+}]
