@@ -12,4 +12,20 @@
   "name": "Assassin´s Creed IV– Black Flag",
   "trailler": "https://www.youtube.com/watch?v=O1nRrvsGD9s",
   "imageURL": "http://s.glbimg.com/po/tt/f/original/2013/10/04/assassins-creed-4-black-flag-ac.jpg"
+},{
+  "_id": {
+    "$oid": "61297f7672b82622fd4b1a8e"
+  },
+  "name": "Age of Empires III – Definitive Edition",
+  "trailler": "https://www.youtube.com/watch?v=fCcRNUlE7ek",
+  "imageURL": "https://guides.magicgameworld.com/files/1-390.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6129891217ad2e0dd12dc717"
+  },
+  "name": "Age of Empires VI – Definitive Edition",
+  "trailler": "https://www.youtube.com/watch?v=fCcRNUlE7ek",
+  "imageURL": "https://guides.magicgameworld.com/files/1-390.jpg",
+  "__v": 0
 }]
